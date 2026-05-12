@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Kurumalla Venkataramana, Jaddangi IT & AI Consultancy
+Copyright (c) 2025 Kurumalla Venkataramana, Jaddangi AI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -53,7 +53,7 @@ https://github.com/numpy/numpy/blob/main/LICENSE.txt
 ## Jaddangi AI Lab - Glass Box Architecture
 
 Built with ❤️ by Kurumalla Venkataramana
-Jaddangi IT & AI Consultancy
+Jaddangi AI
 https://github.com/venkatramanakurumalla/jaddangi-ai-lab
 
 This project implements a pure PyTorch transformer architecture inspired by:
